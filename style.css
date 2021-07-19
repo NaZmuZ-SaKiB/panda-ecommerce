@@ -1,0 +1,23 @@
+.bg-pink-light{
+    background-color: #fceae8;
+}
+.bg-pink{
+    background-color: #da70d6;
+}
+.bg-orange{
+    background-color: #ffa500;
+}
+.bg-blue{
+    background-color: #0000ff;
+}
+.btn{
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+.btn-pink{
+    background-image: linear-gradient(to top, #ff1b74, #ff579a);
+    color: #fff;
+}
+.text-pink{
+    color: #ff1b74;
+}
